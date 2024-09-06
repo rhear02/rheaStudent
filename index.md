@@ -7,8 +7,15 @@ hide: true
 
 
 <button style= "border:  2px solid red;"> Breakfast </button> <br>
-<a href= "/rheaStudent/lunch">lunch</a> <br> 
-<a href= "/rheaStudent/dinner">dinner</a> <br> 
+<div>
+    <a href="/rheaStudent/lunch"
+    style="border:2px solid red;">lunch</a> <br>
+    <div>
+    
+ <div>   
+    <a href="/rheaStudent/dinner"
+    style="border:2px solid red;">dinner</a> <br>
+    <div>
 
 <img alt= "food" src= "/rheaStudent/images/food.jpg" width="300" height="200">
 
