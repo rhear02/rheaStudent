@@ -4,8 +4,8 @@ title: Dinner
 permalink: /dinner/ #url to the dinner page
 ---
 
-<h1> Choose a cuisine </h1>
-<strong> Italian </strong> <br>
+<h1> Choose a cuisine </h1> <!-- header -->
+<strong> Italian </strong> <br> <!-- bold text -->
 <img alt="pizza" src="/rheaStudent/images/pizza.jpg">
 <p>Looking for a great way to end the night? Try this freshly baked pizza filled with 
 cheese and sauce<p>

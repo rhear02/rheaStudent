@@ -6,8 +6,8 @@ title: Lunch
 permalink: /lunch/ #url to the lunch page
 ---
 
-<h1> Choose a cuisine </h1>
-<strong>Italian</strong> <br>
+ <h1> Choose a cuisine </h1> <!--header -->
+<strong>Italian</strong> <br> <!--bold text-->
 <img alt="italian pastha" src= "/rheaStudent/images/italianpastha.jpg">
 <p> If you are interested in some yummy marinara pastha with cheese then try this meal 
 freshly from Europe <p> <br>
