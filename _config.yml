@@ -3,7 +3,7 @@ description: "Class of 2025"
 owner_name: Rhea Rajashekhar
 github_username: rhear02
 github_repo: "rheaStudent" 
-baseurl: "/rheaStudent/"
+baseurl: "/rheaStudent"
 future: true
 remote_theme: jekyll/minima
 minima:
