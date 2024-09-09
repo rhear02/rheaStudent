@@ -13,7 +13,7 @@ permalink: /about/
 </style>
 
 <img alt= "lemon" src= "/rheaStudent/images/lemon.jpeg" width="100" height="200" class="spaced-img">
-<img alt= "lemon" src= "/rheaStudent/images/beach.jpg" width="100" height="200" class="spaced-img">
+<img alt= "beach" src= "/rheaStudent/images/beach.jpg" width="100" height="200" class="spaced-img">
 <img alt= "me" src= "/rheaStudent/images/pictureofme.jpg" width="300" height="200" class="spaced-img">
 
 <body style="background-color:pink;">
