@@ -31,3 +31,5 @@ hide: true
 
 <p style="border:  2px solid red;">If you are interested in a place that has a variety of
 different meals from areas all around the world then click on the lunch and dinner menu above</p> 
+
+<body style="background-color:pink;">
