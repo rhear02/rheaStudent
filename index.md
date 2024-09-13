@@ -12,7 +12,10 @@ hide: true
     
  <div>   
     <a href="/rheaStudent/dinner" class="pink-button">Dinner</a> <br> <!--br is a single line break  -->
-    <div>
+    <a href="/rheaStudent/snake" class="pink-button">Snake</a> <br> <!--br is a single line break  -->
+
+  <div>
+  
 
 <style>
    .pink-button {
@@ -35,3 +38,4 @@ different meals from areas all around the world then click on the lunch and dinn
 <body style="background-color:pink;">
 
 <p style="border:  2px solid red;"> My journey: The problems I had while setting up were installing the correct version of Ruby(my version was outdated), issues with my theme because when I changed the theme to dinky my website turned blank(white), and my commits were not going through because I never synced the changes.
+
