@@ -1,7 +1,13 @@
 ---
-title: Snake Game
-permalink: /snake
+layout: page
+title: snake
+description: snake game
+permalink: /snake/
+
 ---
+{% include nav/home.html %}
+
+Future home of snake game
 
 <style>
 

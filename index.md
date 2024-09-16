@@ -5,6 +5,8 @@ description: Home Page
 hide: true
 ---
 
+{% include nav/home.html %}
+
 <button class="pink-button">Breakfast</button> <br>
 <div> 
     <a href="/rheaStudent/lunch" class="pink-button">Lunch</a> <br>
@@ -12,7 +14,6 @@ hide: true
     
  <div>   
     <a href="/rheaStudent/dinner" class="pink-button">Dinner</a> <br> <!--br is a single line break  -->
-    <a href="/rheaStudent/snake" class="pink-button">Snake</a> <br> <!--br is a single line break  -->
 
   <div>
   
