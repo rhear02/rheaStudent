@@ -33,10 +33,10 @@ hide: true
 
 <body style="background-color:pink;">
 
-<p style="border:  2px solid red;">If you are interested in a place that has a variety of
+<p style="border:  2px solid purple;">If you are interested in a place that has a variety of
 different meals from areas all around the world then click on the lunch and dinner menu above</p> 
 
 <body style="background-color:pink;">
 
-<p style="border:  2px solid red;"> My journey: The problems I had while setting up were installing the correct version of Ruby(my version was outdated), issues with my theme because when I changed the theme to dinky my website turned blank(white), and my commits were not going through because I never synced the changes.
+<p style="border:  2px solid purple;"> My journey: The problems I had while setting up were installing the correct version of Ruby(my version was outdated), issues with my theme because when I changed the theme to dinky my website turned blank(white), and my commits were not going through because I never synced the changes.
 
