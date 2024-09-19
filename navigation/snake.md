@@ -68,8 +68,8 @@ Future home of snake game
     }
 
     #setting input:checked + label{
-        background-color: #C8A2C8;
-        color: #C8A2C8;
+        background-color: #E6E6FA;
+        color: #E6E6FA;
     }
 </style>
 
@@ -273,7 +273,7 @@ Future home of snake game
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "royalblue";
+            ctx.fillStyle = "#E6E6FA";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
