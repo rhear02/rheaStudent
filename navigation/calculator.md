@@ -65,3 +65,5 @@ permalink: /calculator/
   <div class="calculator-number">.</div>
   <div class="calculator-equals">=</div>
 </div>
+
+<body style="background-color:pink;">
