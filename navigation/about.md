@@ -14,7 +14,6 @@ comments: True
 </style>
 
 <img alt= "lemon" src= "/rheaStudent/images/lemon.jpeg" width="100" height="200" class="spaced-img">
-<img alt= "beach" src= "{{site.baseurl}}http://127.0.0.1:4100/rheaStudent/images/beach.jpg" width="100" height="200" class="spaced-img">
 <img alt= "me" src= "/rheaStudent/images/pictureofme.jpg" width="300" height="200" class="spaced-img">
 
 <body style="background-color:pink;">
