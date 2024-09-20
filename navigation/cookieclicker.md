@@ -1,10 +1,11 @@
 ---
 layout: page
-title: cookieclicker
+# title: cookieclicker
 description: cookie game
 permalink: /cookieclicker/
-
 ---
+
+{% include nav/home.html %}
 
 <html lang="en">
 <head>
@@ -19,9 +20,9 @@ permalink: /cookieclicker/
            justify-content: center;
            background-color: #f1e7d6;
            font-family: Arial, sans-serif;
-           height: 100vh;
            margin: 0;
            padding: 0;
+           padding-top: 120px; /* Adjusts the space between the top of the page and the content */
        }
 
        header {
@@ -33,24 +34,20 @@ permalink: /cookieclicker/
            z-index: 1000; /* Ensures the header is on top of other content */
        }
 
-       body {
-           padding-top: 120px; /* Ensure content doesn't overlap with the fixed header */
-       }
-
        h1 {
            font-family: 'Cookie', cursive;
            color: #333; /* Change to black text */
            font-size: 3rem;
            margin: 0;
            position: relative;
-           top: 50px; /* Lower the position of the title */
            text-align: center;
+           margin-bottom: 20px;
        }
 
        #gameContainer {
            position: relative;
            text-align: center;
-           margin-top: 100px; /* Adjust margin as needed */
+           margin-top: 50px; /* Adjust margin as needed */
        }
 
        #cookie {
