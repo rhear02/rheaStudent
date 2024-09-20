@@ -7,4 +7,4 @@ permalink: /ideas/
 ---
 {% include nav/home.html %}
 
-Future of my great ideas that pop in my feed
+<body style="background-color:pink;">
