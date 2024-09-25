@@ -13585,3 +13585,5 @@ venv/share/jupyter/nbconvert/templates/script/script.j2
 venv/share/jupyter/nbconvert/templates/webpdf/conf.json
 venv/share/jupyter/nbconvert/templates/webpdf/index.pdf.j2
 venv/share/man/man1/ipython.1
+venv/share/jupyter/labextensions/@jupyter-notebook/lab-extension/static/remoteEntry.04dfa589925e7e7c6a3d.js
+venv/
