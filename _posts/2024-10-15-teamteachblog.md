@@ -3,6 +3,7 @@ layout: post
 title: Team Teach blog
 toc: True
 comments: True
+permalink: /teamTeachblog/
 ---
 
 ## 3.1 Variables and Assignments
@@ -77,3 +78,12 @@ comments: True
   Example: `print(fruits[0])  # Outputs: "apple"`
 - **Interactive Challenge**:  
   **Task**: Create a list of your top three favorite hobbies and print each one in a new sentence.
+
+
+<script src="https://utteranc.es/client.js"
+        repo="rhear02/rheaStudent"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
