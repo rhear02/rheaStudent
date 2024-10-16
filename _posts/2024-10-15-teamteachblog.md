@@ -3,8 +3,9 @@ layout: post
 title: Team Teach blog
 toc: True
 comments: True
-permalink: /teamTeachblog/
 ---
+## MEMORIES
+Something that will help teachers or peers recall my presentation was practicing our presentation together during office hours. It was a unique experience for us all collaborating on a shared repository because we did encounter a lot of merge errors at the beginning, but we were able to push through and figure out the issues we had together.
 
 ## 3.1 Variables and Assignments
 - **Definition**: Variables store values that can be used and modified throughout your program.  
@@ -79,11 +80,13 @@ permalink: /teamTeachblog/
 - **Interactive Challenge**:  
   **Task**: Create a list of your top three favorite hobbies and print each one in a new sentence.
 
-
 <script src="https://utteranc.es/client.js"
         repo="rhear02/rheaStudent"
-        issue-term="pathname"
+        issue-term="title"
         theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
+
+
+
