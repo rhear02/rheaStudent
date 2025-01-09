@@ -16,8 +16,6 @@ comments: True
 <img alt= "lemon" src= "/rheaStudent/images/lemon.jpeg" width="100" height="200" class="spaced-img">
 <img alt= "me" src= "/rheaStudent/images/pictureofme.jpg" width="300" height="200" class="spaced-img">
 
-<body style="background-color:pink;">
-
 <script src="https://utteranc.es/client.js"
         repo="rhear02/rheaStudent"
         issue-term="/about/"
@@ -25,3 +23,5 @@ comments: True
         crossorigin="anonymous"
         async>
 </script>
+
+<body style="background-color:pink;">
