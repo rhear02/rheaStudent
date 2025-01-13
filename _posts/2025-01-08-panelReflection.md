@@ -27,4 +27,8 @@ Research College Resources:
 
 - Communicating this well is essential for interviews and networking.
 
+My takeaways:
+
+This panel was very interesting and inspiring because hearing about the panelists’ challenges and solutions helped me see practical ways to grow in my field.
+
 <img alt="panel" src="/rheaStudent/images/panel.jpg" width="250" height="350"> 
