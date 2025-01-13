@@ -27,4 +27,4 @@ Research College Resources:
 
 - Communicating this well is essential for interviews and networking.
 
-<img alt="oanel" src="/rheaStudent/images/panel.jpg" width="250" height="350"> 
+<img alt="panel" src="/rheaStudent/images/panel.jpg" width="250" height="350"> 
