@@ -5,9 +5,28 @@ layout: post
 title: Panel Reflection
 type: blogs
 ---
-Change I will make from listening to panel:
+Changes I will make from listening to panel:
 
-- focus more on planning/organization 
-ex: flowcharts
-- understand how to fully navigate github
-- do some research on what resources and opportunities each college provides for my major
+ Focus More on Planning/Organization:
+
+- I will use tools like flowcharts to better structure ideas and projects.
+
+ Understand How to Fully Navigate GitHub:
+
+- Mastering GitHub will improve collaboration and version control in my work.
+
+Research College Resources:
+
+- I’ll investigate the specific resources and opportunities colleges offer for my major to make informed decisions.
+
+ Improve Presentation Skills:
+
+- I’ll work on being concise and clear during presentations to ensure my audience understands my points.
+
+ Deliver the "Tell Me About Yourself" Answer Effectively:
+
+- Communicating this well is essential for interviews and networking.
+
+<img alt="oanel" src="/rheaStudent/images/panel.jpg" width="250" height="350"> 
+
+<body style="background-color:pink;">
