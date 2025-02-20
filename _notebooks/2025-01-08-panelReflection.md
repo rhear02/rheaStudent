@@ -4,6 +4,7 @@ comments: False
 layout: post
 title: Panel Reflection
 type: blogs
+permalink: /panel
 ---
 
 <style>
