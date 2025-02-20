@@ -78,7 +78,7 @@ type: blogs
   </ul>
 
   <h2><span style="font-size: 20px;">My Takeaways from the CS panel</span></h2>
-  <p>This panel was very interesting and inspiring because hearing about the panelists’ challenges and solutions helped me see practical ways to grow in my field. Using what I have learned from this panel, I will use this knowledge in my day to day life so I can succeed and grow as a person in my field of study. The insights shared about overcoming obstacles and staying motivated will help me tackle any challenges I face. I now feel more confident in my ability to take proactive steps toward achieving my academic and professional goals.</p>
+  <p>This panel was very interesting and inspiring because hearing about the panelists’ challenges and solutions helped me see practical ways to grow in my field. Using what I have learned from this panel, I will use this knowledge in my day to day life so I can succeed and grow as a person in my field of study. The insights shared about overcoming obstacles and staying motivated will help me tackle any challenges I face. I now feel more confident in my ability to take proactive steps toward achieving my academic and professional goals</p>
 
   <img alt="panel" src="/rheaStudent/images/panel.png" width="250" height="350">
 </div>
