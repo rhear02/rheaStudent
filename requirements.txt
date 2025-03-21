@@ -4,3 +4,4 @@ pyyaml
 notebook
 requests
 python-dotenv
+pandas
