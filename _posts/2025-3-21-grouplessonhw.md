@@ -61,7 +61,7 @@ permalink: /grouplessonhw
 
 <h1>Crowdsourcing</h1>
 
-<p>**Popcorn hack #1**</p>
+<p>Popcorn hack #1</p>
 
 <p>Crowd Funding: People contribute money to support projects, helping innovators bring ideas to market (e.g., Kickstarter).</p>
 
@@ -71,7 +71,7 @@ permalink: /grouplessonhw
 
 <p>Crowd Wisdom: The crowd shares knowledge or insights, solving problems through collective intelligence (e.g., Waze traffic updates).</p>
 
-<p>**Popcorn hack #2**</p>
+<p>Popcorn hack #2</p>
 
 <p>Data crowdsourcing gathers large datasets through public contributions, boosting diversity, speed, and collaboration in open-source development.</p>
 
@@ -83,7 +83,7 @@ permalink: /grouplessonhw
 
 <p>OpenStreetMap: Crowdsourced geographic data.</p>
 
-<p>**Popcorn hack #3**</p>
+<p>Popcorn hack #3</p>
 
 <p>Distributed computing uses volunteers' devices to process massive datasets, speeding up research and innovation.</p>
 
@@ -95,6 +95,6 @@ permalink: /grouplessonhw
 
 <p>BOINC: Supports scientific projects with volunteer computing.</p>
 
-<p>**Homework**</p>
+<p>Homework</p>
 
 <p>Crowdsourcing plays a vital role in today’s age by harnessing the collective skills, insights, and resources of large groups to solve problems and drive innovation. It takes many forms, including crowd funding to support new ventures, crowd creation for collaborative content, crowd voting to guide decisions, and crowd wisdom to solve complex issues. Distributed computing further enhances crowdsourcing by using volunteer devices to process large datasets, accelerating scientific research and data analysis. Meanwhile, data crowdsourcing fuels open-source development by providing diverse, real-world datasets for training AI models and building better applications.As technology advances, crowdsourcing holds immense potential to transform industries, from healthcare and AI to climate research, by enabling faster, more collaborative innovation. </p>
