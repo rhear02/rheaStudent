@@ -58,3 +58,43 @@ permalink: /grouplessonhw
 <p>Implicit data is information collected indirectly from user behavior without the user explicitly stating preferences. For example, an online retailer tracking the items you browse or purchase over time infers your interests.</p>
 
 <p>Explicit data is information that a user provides directly, such as filling out a survey or rating a product. For instance, when you rate a movie on a streaming service, you’re giving explicit feedback.</p>
+
+<h1>Crowdsourcing</h1>
+
+<p>Popcorn hack #1</p>
+
+<p>Crowd Funding: People contribute money to support projects, helping innovators bring ideas to market (e.g., Kickstarter).</p>
+
+<p>Crowd Creation: The crowd collaboratively creates content, products, or solutions, fostering collective innovation (e.g., Wikipedia).</p>
+
+<p>Crowd Voting: Public votes or provides feedback, guiding decisions and highlighting popular ideas (e.g., Reddit upvotes).</p>
+
+<p>Crowd Wisdom: The crowd shares knowledge or insights, solving problems through collective intelligence (e.g., Waze traffic updates).</p>
+
+<p>Popcorn hack #2</p>
+
+<p>Data crowdsourcing gathers large datasets through public contributions, boosting diversity, speed, and collaboration in open-source development.</p>
+
+<p>Examples of Crowdsourced Datasets:</p>
+
+<p>ImageNet: 14M+ labeled images for AI training.</p>
+
+<p>Common Voice: Mozilla’s open-source voice dataset.</p>
+
+<p>OpenStreetMap: Crowdsourced geographic data.</p>
+
+<p>Popcorn hack #3</p>
+
+<p>Distributed computing uses volunteers' devices to process massive datasets, speeding up research and innovation.</p>
+
+<p>Examples of Successful Projects:</p>
+
+<p>SETI@home: Searches for extraterrestrial signals.</p>
+
+<p>Folding@home: Simulates protein folding for disease research.</p>
+
+<p>BOINC: Supports scientific projects with volunteer computing.</p>
+
+<p>Homework</p>
+
+<p>Crowdsourcing plays a vital role in today’s age by harnessing the collective skills, insights, and resources of large groups to solve problems and drive innovation. It takes many forms, including crowd funding to support new ventures, crowd creation for collaborative content, crowd voting to guide decisions, and crowd wisdom to solve complex issues. Distributed computing further enhances crowdsourcing by using volunteer devices to process large datasets, accelerating scientific research and data analysis. Meanwhile, data crowdsourcing fuels open-source development by providing diverse, real-world datasets for training AI models and building better applications.As technology advances, crowdsourcing holds immense potential to transform industries, from healthcare and AI to climate research, by enabling faster, more collaborative innovation. </p>
