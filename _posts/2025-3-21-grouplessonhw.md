@@ -98,3 +98,9 @@ permalink: /grouplessonhw
 <p>Homework</p>
 
 <p>Crowdsourcing plays a vital role in today’s age by harnessing the collective skills, insights, and resources of large groups to solve problems and drive innovation. It takes many forms, including crowd funding to support new ventures, crowd creation for collaborative content, crowd voting to guide decisions, and crowd wisdom to solve complex issues. Distributed computing further enhances crowdsourcing by using volunteer devices to process large datasets, accelerating scientific research and data analysis. Meanwhile, data crowdsourcing fuels open-source development by providing diverse, real-world datasets for training AI models and building better applications.As technology advances, crowdsourcing holds immense potential to transform industries, from healthcare and AI to climate research, by enabling faster, more collaborative innovation. </p>
+
+<h1>Safe Computing</h1>
+
+<p>Homework Hack 2</p>
+
+<img src="/rheaStudent/images/safecomputing.png" alt="safecomputing" width="600" height="500">
