@@ -104,3 +104,66 @@ permalink: /grouplessonhw
 <p>Homework Hack 2</p>
 
 <img src="/rheaStudent/images/safecomputing.png" alt="safecomputing" width="600" height="500">
+
+<h1>Lists and Filtering</h1>
+
+<p> Popcorn hack 1: </p>
+
+<p> Lists are a versatile and efficient way to store multiple values in a single variable, allowing for easy access, manipulation, and iteration of data. They offer benefits like dynamic sizing, organized storage, and the ability to sort or filter items. Real-world examples of lists in code include to-do list apps, student grade tracking, inventory management, web scraping, and bank account transactions. Lists make handling collections of data simple, whether you're organizing tasks, calculating averages, or tracking changes over time. </p>
+
+<p> Popcorn hack 2: </p>
+
+<p> The code output is eraser </p>
+
+<p> 1. The list items is initially ["pen", "pencil", "marker", "eraser"]. </p>
+
+<p> 2. items.remove("pencil") removes the item "pencil" from the list, so the list becomes ["pen", "marker", "eraser"]. </p>
+
+<p> 3. items.append("sharpener") adds "sharpener" to the end of the list, so the list becomes ["pen", "marker", "eraser", "sharpener"]. </p>
+
+<p> 4. print(items[2]) prints the element at index 2 in the list, which is "eraser". </p>
+
+<p> Popcorn hack 3: </p>
+
+<p> Filtering algorithms are used in many real-world applications to sort through large amounts of data and highlight what’s most relevant. For example, search engines filter results to show the most relevant pages based on a user's query, while social media platforms use filters to personalize content and ads for users. Email services use spam filters to block unwanted messages, and recommendation systems like Netflix or Amazon filter through catalogs to suggest movies, products, or shows based on user preferences. These algorithms improve efficiency and enhance user experience by focusing on what matters most. </p>
+
+<img src="/rheaStudent/images/listsfiltering1.png" alt="listsfiltering1" width="600" height="500">
+
+<img src="/rheaStudent/images/listsfiltering2.png" alt="listsfiltering2" width="600" height="500">
+
+<p> Steps to traverse the list: </p>
+
+<p> Start with the first item in the list. </p>
+
+<p> Use a loop (for loop) to iterate over each item in the list. </p>
+
+<p> Access each item using the loop’s index or directly. </p>
+
+<p> Perform any operation you need on the item (e.g., printing it, modifying it, etc.). </p>
+
+<p> Continue to the next item in the list until all items have been processed. </p>
+
+
+
+<p> Filtering Algorithm (Using Pandas): </p>
+
+<p> Condition: Filter for fruits that contain the letter 'e' </p>
+
+<p> Steps: </p>
+
+<p> Start with a list of items (fruits in this case). </p>
+
+<p> Convert the list to a pandas DataFrame for better manipulation. </p>
+
+<p> Use list traversal (looping) to check each item. </p>
+
+<p> Apply the condition: check if the item contains the letter 'e'. </p>
+
+<p> Build a new list containing only the items that meet the condition (i.e., contain 'e'). </p>
+
+<img src="/rheaStudent/images/listsfiltering3.png" alt="listsfiltering3" width="600" height="500">
+
+<p> Final Reflection </p>
+
+<p> Filtering algorithms and lists are used in real life to sort and refine data, such as when a search engine filters results based on relevance to a user's query. Lists help store and organize information, and filtering algorithms ensure only the relevant data is selected for display or further analysis. </p>
+
