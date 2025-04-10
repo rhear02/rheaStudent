@@ -70,8 +70,8 @@ permalink: /cybersecuritypanel
   <h2><span style="font-size: 20px;">My Takeaways from the Cybersecurity panel</span></h2>
   <p>The panel was both interesting and inspiring, offering valuable insights into the cybersecurity field and showing how determination, integrity, and adaptability can lead to success even in the face of uncertainty. My key takeaways from the cybersecurity panel are the importance of integrity in the workplace, especially when handling sensitive information, and the value of teamwork and leadership skills in navigating difficult group dynamics. Networking is essential for finding job opportunities, as building connections can open doors in the cybersecurity field.</p>
 
-<img alt= "cyber4" src= "/rheaStudent/images/cyber4.jpeg" width="300" height="300" class="spaced-img">
+<img alt= "cyber4" src= "/rheaStudent/images/cyber4.jpeg" width="250" height="300" class="spaced-img">
 
-<img alt= "cyber5" src= "/rheaStudent/images/cyber5.jpeg" width="300" height="300" class="spaced-img">
+<img alt= "cyber5" src= "/rheaStudent/images/cyber5.jpeg" width="250" height="300" class="spaced-img">
 
 </div>
