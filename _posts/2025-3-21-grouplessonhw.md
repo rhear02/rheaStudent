@@ -202,6 +202,10 @@ and check if the last digit is 0, 2, 4, 6, or 8 manually </p>
 
 <p> Binary search grows very slowly, only doing a few more checks (because it cuts the list in half each time). </p>
 
+<p> <strong> Analysis </strong> </p>
+
+<p> Choose the speed-optimized method for a performance-critical application because it runs much faster (O(n)) and handles large strings efficiently. The memory-optimized method is slower due to repeated insertions (O(n²)) and isn’t worth the small memory savings. </p>
+
 <p> <strong> Homework hack 1 </strong> </p>
 
 <img src="/rheaStudent/images/bigo1.png" alt="bigo1" width="350" height="500">
