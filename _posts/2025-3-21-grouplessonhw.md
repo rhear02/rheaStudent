@@ -167,3 +167,58 @@ permalink: /grouplessonhw
 
 <p> Filtering algorithms and lists are used in real life to sort and refine data, such as when a search engine filters results based on relevance to a user's query. Lists help store and organize information, and filtering algorithms ensure only the relevant data is selected for display or further analysis. </p>
 
+<h1>Big O and Algorithmic Efficiency</h1>
+
+<p> <strong> Popcorn Hack 1 </strong> </p>
+
+<p> <strong> Best 2 strategies: </strong> </p>
+
+<p> Use the modulus operator (%) to check if the remainder when divided by 2 is 0 
+and check if the last digit is 0, 2, 4, 6, or 8 manually </p>
+
+<p> <strong> Explanation: </strong> </p>
+
+<p> The modulus operator is the most efficient because it’s a direct math operation with constant time complexity O(1). Checking the last digit manually (if the number is a string or digit) is also quick and doesn't require loops or extra space. </p>
+
+<p> <strong> Popcorn Hack 2 </strong> </p>
+
+<p> <strong> Time Complexity </strong> </p>
+
+<p> Linear Search: O(n) </p>
+
+<p> Binary Search: O(log n) </p>
+
+<p> <strong> Sample Output </strong> </p>
+
+<p> Linear search: 1.234567 seconds </p>
+
+<p> Binary search: 0.000123 seconds </p>
+
+<p> Binary search is approximately 10000x faster </p>
+
+<p> <strong> What happens if data size is increased to 20,000,000? </strong> </p>
+
+<p> Linear search takes about twice as long, since it goes through each item. </p>
+
+<p> Binary search grows very slowly, only doing a few more checks (because it cuts the list in half each time). </p>
+
+<p> <strong> Homework hack 1 </strong> </p>
+
+<img src="/rheaStudent/images/bigo1.png" alt="bigo1" width="350" height="500">
+
+<p> <strong> Why Merge Sort is faster </strong> </p>
+
+<p> Merge sort consistently outperforms bubble sort because it divides the list into smaller parts and sorts them efficiently, making fewer total comparisons.
+Bubble sort repeatedly compares and swaps neighbors, which is much slower for large lists. </p>
+
+<p> <strong> Homework hack 2 </strong> </p>
+
+<img src="/rheaStudent/images/bigo2.png" alt="bigo2" width="350" height="500">
+
+<p> <strong> Which is faster and why? </strong> </p>
+
+<p> Binary search is faster because it reduces the search space in half every step, while linear search checks every single number one by one. </p>
+
+<p> <strong> What happens with an unsorted list? </strong> </p>
+
+<p> Binary search won’t work properly on unsorted lists. It needs a sorted list to divide and conquer.Linear search still works fine on unsorted lists, though slower. </p>
