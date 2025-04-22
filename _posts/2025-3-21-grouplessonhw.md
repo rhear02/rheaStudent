@@ -226,3 +226,46 @@ Bubble sort repeatedly compares and swaps neighbors, which is much slower for la
 <p> <strong> What happens with an unsorted list? </strong> </p>
 
 <p> Binary search won’t work properly on unsorted lists. It needs a sorted list to divide and conquer.Linear search still works fine on unsorted lists, though slower. </p>
+
+<h1>Undecidable Problems, graphs, and heuristics</h1>
+
+<p><strong> popcorn hack</strong> </p>
+
+<img src="/rheaStudent/images/drawing.png" alt="drawing" width="200" height="250">
+
+<p> Cities: A, B, C, D, E </p>
+
+<p> Roads (edges): AB, AC, BD, CD, DE </p>
+
+<p> You can assign weights (distances) like: AB=5, AC=6, BD=3, CD=4, DE=2 </p>
+
+<p><strong> Homework hack</strong> </p>
+
+<p> Q1: C </p>
+
+<p> Redundant routing = more than one path between two devices. </p>
+
+<p> If Configuration I has only one path between Q and V → no redundancy. </p>
+
+<p> If Configuration II has multiple paths (like via different routers or devices) → redundancy. </p>
+
+<p> Q2: B </p>
+
+<p> If T and U are connected through multiple paths, you’d need to break all of them. </p>
+
+<p> If there’s only one path, breaking one connection is enough. </p>
+
+<p> If there are two separate paths, you'd need to break both to disconnect T and U. </p>
+
+<p><strong> Popcorn hack 2</strong> </p>
+
+<img src="/rheaStudent/images/undecide.png" alt="undecide" width="500" height="350">
+
+<p><strong> Reflection:</strong> </p>
+
+<p> Less efficient when reversed, Not perfect, and Greedy is good enough for U.S. coins but fails with some other coin sets. </p>
+
+<p><strong> Homework hack 2</strong> </p>
+
+<p> Changing the order of the coins made the algorithm less efficient, using many more coins when starting with the smallest values. The original greedy algorithm, which starts with the largest coin, used fewer coins overall. This shows that greedy algorithms work well when the coin system is designed to support it, but they can fail if the coin values don’t fit a simple pattern. </p>
+
