@@ -288,11 +288,16 @@ permalink: /personalstudyblog
 
 <p><strong> Study plan for the AP Exam</strong> </p>
 
+<li> Practice More questions on Khan academy by April 27 </li>
 
-<li> Finalize my program code and create a video showing my program running before April 28 </li>
+<li> Finalize my program code and create a video showing my program running before April 30 </li>
 
-<li> Complete 3 more MCQ practice tests before May 3 (collegeboard, Barrons book) </li>
+<li> Complete 3 more MCQ practice tests before May 4 (collegeboard, Barrons book) </li>
 
 <li> Complete the 2023 part 2 and 3 written response practice exam on collegeboard by May 8 </li>
 
 <li> Review concepts through watching more collegeboard videos by May 14 </li>
+
+<img src="/rheaStudent/images/mcqq.png" alt="mcqq" width="600" height="300">
+
+<img src="/rheaStudent/images/khan.png" alt="khan" width="650" height="350">
