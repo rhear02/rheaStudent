@@ -285,3 +285,14 @@ permalink: /personalstudyblog
 <p>Packet switching: the message (file) is broken up into packets and sent in any order. The packets are reassembled by the recipient’s device</p>
 
 <p>Path: a path between two computing devices on a computer network is a sequence of connected computing devices that begins at the sender and ends at the receiver</p>
+
+<p><strong> Study plan for the AP Exam</strong> </p>
+
+
+<li> Finalize my program code and create a video showing my program running before April 28 </li>
+
+<li> Complete 3 more MCQ practice tests before May 3 (collegeboard, Barrons book) </li>
+
+<li> Complete the 2023 part 2 and 3 written response practice exam on collegeboard by May 8 </li>
+
+<li> Review concepts through watching more collegeboard videos by May 14 </li>
