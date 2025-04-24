@@ -275,3 +275,13 @@ permalink: /personalstudyblog
 <li>Boolean expressions (25%) </li>
 
 <li>lists (20%) </li>
+
+<img src="/rheaStudent/images/cboard.png" alt="cboard" width="550" height="350">
+
+<p><strong>4.1 The internet</strong></p>
+
+<p>Packet: a small amount of data sent over a network. Each packet includes the source and the destination information.</p>
+
+<p>Packet switching: the message (file) is broken up into packets and sent in any order. The packets are reassembled by the recipient’s device</p>
+
+<p>Path: a path between two computing devices on a computer network is a sequence of connected computing devices that begins at the sender and ends at the receiver</p>
