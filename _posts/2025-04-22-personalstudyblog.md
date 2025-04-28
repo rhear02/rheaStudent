@@ -298,4 +298,5 @@ permalink: /personalstudyblog
 
 <li> Review concepts through watching more collegeboard videos by May 14 (Big idea 1, Big idea 2, Big idea 3, Big idea 4, Big idea 5) </li>
 
+
 <img src="/rheaStudent/images/khan.png" alt="khan" width="650" height="350">

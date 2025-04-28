@@ -269,3 +269,121 @@ Bubble sort repeatedly compares and swaps neighbors, which is much slower for la
 
 <p> Changing the order of the coins made the algorithm less efficient, using many more coins when starting with the smallest values. The original greedy algorithm, which starts with the largest coin, used fewer coins overall. This shows that greedy algorithms work well when the coin system is designed to support it, but they can fail if the coin values don’t fit a simple pattern. </p>
 
+<h1>Base 2 Math and Logic Gates</h1>
+
+<p> Popcorn Hack 1: Identifying Binary </p>
+
+<p> Example 1: </p>
+
+<p> Number: 101010 </p>
+
+<p> This is binary because it only has 1s and 0s. </p>
+
+<p> Example 2: </p>
+
+<p> Number: 12301 </p>
+
+<P> This is NOT binary because it has digits (2 and 3) that are not 0 or 1. </p>
+
+<p> Example 3: </p>
+
+<p> Number: 11001 </p>
+
+<p> This is binary because it only has 1s and 0s. </p>
+
+<p> Popcorn Hack 2: Adding and Subtracting Binary (Examples) </p>
+
+<p> Example 1 (Adding): </p>
+
+<p> 101 + 110 </p>
+
+Let's add:
+
+markdown
+Copy
+Edit
+  101
++ 110
+-----
+1011
+Answer: 1011
+
+<p> Example 2 (Subtracting): </p>
+
+<p> 1101 - 1011 </p>
+
+<p> First, convert to decimal: </p>
+
+<p> 1101 → 13 </p>
+
+<p> 1011 → 11 </p>
+
+<p> 13 - 11 = 2 </p>
+
+<p> Convert 2 back to binary: </p>
+
+<p> 10 </p>
+
+<p> Example 3 (Adding): </p>
+
+<p> 111 + 1001 </p>
+
+<p> Convert to decimal: </p>
+
+<p> 111 → 7 </p>
+
+<p> 1001 → 9 </p>
+
+<p> Add: 7 + 9 = 16 </p>
+
+<p> Convert back to binary: </p>
+
+<p> 10000 </p>
+
+<p> Answer: 10000 </p>
+
+<p> Popcorn Hack 1 (Boolean Logic): </p>
+
+<p> Problem: </p>
+
+<p> True or False and False </p>
+
+<p> Follow order of operations: </p>
+
+<p> and happens before or. </p>
+
+<p> False and False → False </p>
+
+<p> True or False → True </p>
+
+<p> Answer: True </p>
+
+<p> Popcorn Hack 2 (Boolean Logic): </p>
+
+<p> Problem: not True and False </p>
+
+<p> not True → False Now: </p>
+
+<p> False and False → False </p>
+
+<p> Answer: False </p>
+
+<p> Popcorn Hack 3 (Boolean Logic): </p>
+
+<p> Problem: True or False and not False </p>
+
+<p> not False → True Now it’s: </p>
+
+<p> True or False and True Next: </p>
+
+<p> False and True → False Finally: </p>
+
+<p> True or False → True </p>
+
+<p> Answer: True </p>
+
+<p> Homework: Binary Converter </p>
+
+<img src="/rheaStudent/images/basetwo.png" alt="basetwo" width="500" height="350">
+
+
