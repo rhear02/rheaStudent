@@ -271,48 +271,31 @@ Bubble sort repeatedly compares and swaps neighbors, which is much slower for la
 
 <h1>Base 2 Math and Logic Gates</h1>
 
-<p> Popcorn Hack 1: Identifying Binary </p>
+<p><strong> Popcorn Hack 1: Identifying Binary</strong> </p>
 
 <p> Example 1: </p>
-
-<p> Number: 101010 </p>
 
 <p> This is binary because it only has 1s and 0s. </p>
 
 <p> Example 2: </p>
 
-<p> Number: 12301 </p>
-
 <P> This is NOT binary because it has digits (2 and 3) that are not 0 or 1. </p>
 
 <p> Example 3: </p>
 
-<p> Number: 11001 </p>
-
 <p> This is binary because it only has 1s and 0s. </p>
 
-<p> Popcorn Hack 2: Adding and Subtracting Binary (Examples) </p>
+<p><strong> Popcorn Hack 2</strong> </p>
 
-<p> Example 1 (Adding): </p>
+<p> Example 1: </p>
 
-<p> 101 + 110 </p>
+<p> 101 + 110 = 1011 </p>
 
-Let's add:
-
-markdown
-Copy
-Edit
-  101
-+ 110
------
-1011
-Answer: 1011
-
-<p> Example 2 (Subtracting): </p>
+<p> Example 2: </p>
 
 <p> 1101 - 1011 </p>
 
-<p> First, convert to decimal: </p>
+<p>convert to decimal: </p>
 
 <p> 1101 → 13 </p>
 
@@ -324,7 +307,7 @@ Answer: 1011
 
 <p> 10 </p>
 
-<p> Example 3 (Adding): </p>
+<p> Example 3: </p>
 
 <p> 111 + 1001 </p>
 
@@ -334,23 +317,13 @@ Answer: 1011
 
 <p> 1001 → 9 </p>
 
-<p> Add: 7 + 9 = 16 </p>
+<p> 7 + 9 = 16 </p>
 
 <p> Convert back to binary: </p>
 
 <p> 10000 </p>
 
-<p> Answer: 10000 </p>
-
-<p> Popcorn Hack 1 (Boolean Logic): </p>
-
-<p> Problem: </p>
-
-<p> True or False and False </p>
-
-<p> Follow order of operations: </p>
-
-<p> and happens before or. </p>
+<p><strong> Popcorn Hack 1</strong> </p>
 
 <p> False and False → False </p>
 
@@ -358,32 +331,28 @@ Answer: 1011
 
 <p> Answer: True </p>
 
-<p> Popcorn Hack 2 (Boolean Logic): </p>
-
-<p> Problem: not True and False </p>
-
-<p> not True → False Now: </p>
+<p><strong> Popcorn Hack 2:</strong> </p>
 
 <p> False and False → False </p>
 
 <p> Answer: False </p>
 
-<p> Popcorn Hack 3 (Boolean Logic): </p>
+<p><strong> Popcorn Hack 3</strong> </p>
 
-<p> Problem: True or False and not False </p>
+<p> not False → True </p>
 
-<p> not False → True Now it’s: </p>
-
-<p> True or False and True Next: </p>
+<p> True or False and True </p>
 
 <p> False and True → False Finally: </p>
 
 <p> True or False → True </p>
 
-<p> Answer: True </p>
+<p><strong> Homework Hack 1</strong> </p>
 
-<p> Homework: Binary Converter </p>
+<img src="/rheaStudent/images/basetwo.png" alt="basetwo" width="500" height="400">
 
-<img src="/rheaStudent/images/basetwo.png" alt="basetwo" width="500" height="350">
+<p><strong> Homework Hack 2</strong> </p>
+
+<img src="/rheaStudent/images/umidk.png" alt="umidk" width="550" height="400">
 
 
