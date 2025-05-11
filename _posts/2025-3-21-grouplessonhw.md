@@ -355,4 +355,24 @@ Bubble sort repeatedly compares and swaps neighbors, which is much slower for la
 
 <img src="/rheaStudent/images/umidk.png" alt="umidk" width="550" height="400">
 
+<h1>Stimulation/Games and Random Algorithims</h1>
 
+<p><strong> Popcorn Hack 1</strong> </p>
+
+<p>Cryptography – Random numbers are used to generate encryption keys, ensuring secure communication and data protection.</p>
+
+<p>Video Game Development – Random numbers create unpredictable events, like enemy spawns or loot drops, making games more exciting and replayable.</p>
+
+<p><strong> Popcorn Hack 2</strong> </p>
+
+<img src="/rheaStudent/images/games1.png" alt="games1" width="500" height="400">
+
+<p><strong> Popcorn Hack 3</strong> </p>
+
+<img src="/rheaStudent/images/games2.png" alt="games2" width="400" height="550">
+
+<p> This is a simulation because it mimics how a real traffic light cycles through signals over time. Its real-world impact is improving traffic flow and safety by helping engineers test timings before applying them to real intersections. </p>
+
+<p><strong> Homework Hack 1</strong> </p>
+
+<img src="/rheaStudent/images/games3.png" alt="games3" width="400" height="550">
