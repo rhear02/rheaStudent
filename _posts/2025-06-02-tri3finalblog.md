@@ -77,4 +77,26 @@ permalink: /tri3finalblog
     <li>Created user collections to store profiles and music preferences.</li>
     <li>Connected backend to display dynamic dropdowns for matched artists.</li>
   </ul>
-  </div>
+
+<h2><span style="font-size: 20px;">Future in Computer Science:</span></h2>
+  <p>Although I won't directly major in Computer Science, I will still use what I have learned and apply it to my field of study</p>
+  <ul>
+    <li>Collaboration</li>
+    <li>persevering</li>
+    <li>logical thinking</li>
+  </ul>
+
+  <h3><span style="font-size: 18px;">Weaknesses:</span></h3>
+  <ul>
+    <li>improve my understanding behind concepts like the deployment processes</li>
+    <li>asking teacher questions/for help</li>
+    <li>time management since it takes me more time to complete tasks</li>
+  </ul>
+
+  <h3><span style="font-size: 18px;">Strengths:</span></h3>
+  <ul>
+    <li>Communicating with group members</li>
+    <li>coding organization --> burn down lists (including comments frequently in my code)</li>
+    <li>helping group members understand Unit 4 concepts and College Board videos more clearly</li>
+  </ul>
+</div>
