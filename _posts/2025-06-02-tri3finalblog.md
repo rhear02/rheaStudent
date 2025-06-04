@@ -37,13 +37,16 @@ permalink: /tri3finalblog
 
 
 <div class="container">
-  <h1><span style="font-size: 40px;">Accomplishments Throughout the Year</span></h1>
+  <h1><span style="font-size: 40px;">Tri 3 final blog</span></h1>
+  <h3><span style="font-size: 20px;">Accomplishments Throughout the Year</span></h3>
 
   <h2><span style="font-size: 20px;">AP CSP Final Feature: Engineering Match Quiz</span></h2>
   <ul>
     <li>Built a quiz that matches users to engineering fields based on their interests.</li>
     <li>Displayed results with personalized descriptions and suggestions.</li>
   </ul>
+
+  <img src="/rheaStudent/images/survey.png" alt="survey" width="350" height="600">
 
   <h2><span style="font-size: 20px;">Deployment Admin Contributions (MelodyMates Project)</span></h2>
 
@@ -52,6 +55,8 @@ permalink: /tri3finalblog
     <li>Implemented edit and delete functionality for posts/comments.</li>
     <li>Debugged API issues to maintain clean client-server communication.</li>
   </ul>
+
+ <img src="/rheaStudent/images/16.png" alt="16" width="450" height="400">
 
   <h3><span style="font-size: 18px;">Static & Dynamic API Data:</span></h3>
   <ul>
@@ -71,6 +76,8 @@ permalink: /tri3finalblog
     <li>Provided feedback to enhance layout, readability, and user experience.</li>
     <li>Designed sections for posts, comments, and chatroom navigation.</li>
   </ul>
+
+  <img src="/rheaStudent/images/chatroom.png" alt="chatroom" width="450" height="400">
 
   <h3><span style="font-size: 18px;">User & Database Features:</span></h3>
   <ul>
