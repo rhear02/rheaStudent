@@ -166,6 +166,16 @@ permalink: /tri3finalblog
   <li>Help students feel more confident in pursuing an engineering pathway.</li>
 </ul>
 
+<h2>CPT requirements:</h2>
+
+<li>User Input (Instructions for input from one of the following): This code receives user input from a JSON request, extracting the "message" and "user_id" fields, which are necessary for processing the chat message.</li>
+
+<img alt= "userinput" src= "/rheaStudent/images/userinput.png" width="500" height="200" class="spaced-img">
+
+<li>List/collection (use of at least 1 list to represent a collection of data that is stored): This code retrieves all chat messages from the database, stores them in a list, and returns the list as a JSON response, demonstrating the use of list collections.</li>
+
+<img alt= "listcollection" src= "/rheaStudent/images/listcollection.png" width="500" height="200" class="spaced-img">
+
     <h3><span style="font-size: 20px;">Connecting to the Future</span></h3>
 
   <p> Now, I'm applying what I’ve learned in class to pursue my interests in engineering. My experience with Git, Python, and version control has become essential in a hands-on project where I’m building and managing a working prototype. Using CRUD operations, I’m able to efficiently organize and interact with project data. </p>
