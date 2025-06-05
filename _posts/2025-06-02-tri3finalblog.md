@@ -50,7 +50,7 @@ permalink: /tri3finalblog
 
   <img src="/rheaStudent/images/survey.png" alt="survey" width="350" height="600">
 
-  <h2><span style="font-size: 20px;">Deployment Admin Contributions (MelodyMates Project)</span></h2>
+  <h2><span style="font-size: 20px;"> Contributions (MelodyMates Project)</span></h2>
 
   <h3><span style="font-size: 18px;">CRUD Operations:</span></h3>
   <ul>
