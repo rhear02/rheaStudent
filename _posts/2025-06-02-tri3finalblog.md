@@ -176,6 +176,37 @@ permalink: /tri3finalblog
 
 <img alt= "listcollection" src= "/rheaStudent/images/listcollection.png" width="500" height="200" class="spaced-img">
 
+<h1> MCQ Reflection</h1>
+
+<img src="/rheaStudent/images/mcqq.png" alt="mcqq" width="600" height="300">
+
+<p><strong> Overall Score: 45/70</strong> </p>
+
+4.1 The internet
+
+Packet: a small amount of data sent over a network. Each packet includes the source and the destination information.
+
+Packet switching: the message (file) is broken up into packets and sent in any order. The packets are reassembled by the recipient’s device
+
+Path: a path between two computing devices on a computer network is a sequence of connected computing devices that begins at the sender and ends at the receiver
+
+IETF (Internet Engineering Task Force): manages the development of standards and technical discussions concerning the internet in an open process
+
+TCP (Transmission Control Protocol): establishes a common standard for how to send messages between devices on the internet
+
+<img alt= "4.1" src= "/rheaStudent/images/4.1.jpg" width="400" height="500" class="spaced-img">
+
+
+4.2 Fault Tolerance
+
+The internet has been engineered to be fault tolerant, with abstractions for routing and transmitting data
+
+Redundancy is the inclusion of extra components that can be used to mitigate failure of a system if other components fail
+
+Redundancy within a system often requires additional resources but can provide the benefit or fault tolerance
+
+The redundancy of routing options between two points increases the reliability of the internet and helps it scale to the more devices and more people
+
     <h3><span style="font-size: 20px;">Connecting to the Future</span></h3>
 
   <p> Now, I'm applying what I’ve learned in class to pursue my interests in engineering. My experience with Git, Python, and version control has become essential in a hands-on project where I’m building and managing a working prototype. Using CRUD operations, I’m able to efficiently organize and interact with project data. </p>
