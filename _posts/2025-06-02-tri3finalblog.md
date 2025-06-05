@@ -38,6 +38,8 @@ permalink: /tri3finalblog
 
 <div class="container">
   <h1><span style="font-size: 40px;">Tri 3 final blog</span></h1>
+
+
   <h3><span style="font-size: 20px;">Accomplishments Throughout the Year</span></h3>
 
   <h2><span style="font-size: 20px;">AP CSP Final Feature: Engineering Match Quiz</span></h2>
@@ -100,10 +102,37 @@ permalink: /tri3finalblog
     <li>time management since it takes me more time to complete tasks</li>
   </ul>
 
+ <h3><span style="font-size: 18px;">Challenges</span></h3>
+
+<p> At first, GitHub basics—like commits, branches, and pull requests—felt overwhelming. However, by asking questions and getting support from my group mates, I gradually became more comfortable navigating Git and debugging through the terminal. </p>
+
   <h3><span style="font-size: 18px;">Strengths:</span></h3>
   <ul>
     <li>Communicating with group members</li>
     <li>coding organization --> burn down lists (including comments frequently in my code)</li>
     <li>helping group members understand Unit 4 concepts and College Board videos more clearly</li>
   </ul>
+
+    <h3><span style="font-size: 20px;">Melody Mates Project</span></h3>
+
+      <img src="/rheaStudent/images/melody.png" alt="melody" width="450" height="400">
+
+<ul>
+  <li>Building an interactive platform where users connect through shared music interests.</li>
+  <li>Developing a real-time <strong>music chatroom</strong> feature that lets users share songs and chat about artists in a live social space.</li>
+  <li>Enhancing the user interface with responsive design and focusing on an engaging user experience.</li>
+</ul>
+
+<p>I plan to feature Melody Mates prominently on my resume and GitHub profile. It highlights both my technical skills and my passion for building community-driven digital tools.</p>
+
+<ul>
+  <li>Social or entertainment tech startups</li>
+  <li>Front-end or full-stack developer positions</li>
+  <li>Teams focused on user engagement and interactive platforms</li>
+</ul>
+
+    <h3><span style="font-size: 20px;">Connecting to the Future</span></h3>
+
+  <p> Now, I'm applying what I’ve learned in class to pursue my interests in engineering. My experience with Git, Python, and version control has become essential in a hands-on project where I’m building and managing a working prototype. Using CRUD operations, I’m able to efficiently organize and interact with project data. </p>
+
 </div>
