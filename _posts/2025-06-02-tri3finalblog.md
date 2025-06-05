@@ -66,12 +66,6 @@ permalink: /tri3finalblog
     <li>Guided team on updating dynamic data tables with backend integration.</li>
   </ul>
 
-  <h3><span style="font-size: 18px;">Backend Support:</span></h3>
-  <ul>
-    <li>Helped debug and optimize database queries and updates.</li>
-    <li>Ensured user data and preferences were properly stored and retrieved.</li>
-  </ul>
-
   <h3><span style="font-size: 18px;">Frontend Design & Usability:</span></h3>
   <ul>
     <li>Designed and improved the About Us and Music Chatroom pages.</li>
@@ -123,12 +117,53 @@ permalink: /tri3finalblog
   <li>Enhancing the user interface with responsive design and focusing on an engaging user experience.</li>
 </ul>
 
-<p>I plan to feature Melody Mates prominently on my resume and GitHub profile. It highlights both my technical skills and my passion for building community-driven digital tools.</p>
+<h3><span style="font-size: 18px;">Engineering Careers Project</span></h3>
 
+<p><strong> Purpose</strong> </p>
+
+<p> This web-based platform helps students explore various engineering fields by aligning their interests with related disciplines. The goal is to engage students through personalized discovery and practical application, empowering them to make informed decisions about their future in engineering. </p>
+
+<p><strong> Engineering Project Article</strong> </p>
+
+<h3><span style="font-size: 20px;">Project Overview</span></h3>
+<p>This web-based platform is designed to help students explore different fields of engineering and find the one that best matches their interests and personality. It includes interactive features, live data, and a project-sharing system to support personalized learning and hands-on engagement.</p>
+
+<h2><span style="font-size: 20px;">Engineering Match Quiz</span></h2>
 <ul>
-  <li>Social or entertainment tech startups</li>
-  <li>Front-end or full-stack developer positions</li>
-  <li>Teams focused on user engagement and interactive platforms</li>
+  <li>Users answer a series of interest-based questions to discover their best-fit engineering field.</li>
+  <li>Quiz results come with tailored descriptions and insights into that field.</li>
+  <li>Helps students make more confident and informed decisions about future studies or careers.</li>
+</ul>
+
+<h2><span style="font-size: 20px;">Engineering Popularity Survey</span></h2>
+<ul>
+  <li> survey data shows which engineering branches are most popular among students.</li>
+  <li>Collected data is stored and visualized through dynamic charts or graphs.</li>
+</ul>
+
+<h2><span style="font-size: 20px;">Engineering Field Descriptions</span></h2>
+<ul>
+  <li>Each major engineering discipline is explained in simple, clear language.</li>
+  <li>Includes examples of real-world applications, jobs, and college programs.</li>
+</ul>
+
+<h2><span style="font-size: 20px;">Project Match Quiz</span></h2>
+<ul>
+  <li>Matches students with sample engineering projects based on their personality and preferences.</li>
+  <li>Designed to give students a real taste of what they might enjoy building in the future.</li>
+</ul>
+
+<h2><span style="font-size: 20px;">Project Showcase & Tracker</span></h2>
+<ul>
+  <li>Students can post their own engineering projects on the platform.</li>
+  <li>Promotes sharing, reflection, and documentation of real-world learning.</li>
+</ul>
+
+<h2><span style="font-size: 20px;">Project Goals</span></h2>
+<ul>
+  <li>Personalize the process of discovering engineering fields.</li>
+  <li>Encourage hands-on exploration through building and showcasing projects.</li>
+  <li>Help students feel more confident in pursuing an engineering pathway.</li>
 </ul>
 
     <h3><span style="font-size: 20px;">Connecting to the Future</span></h3>
