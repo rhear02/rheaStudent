@@ -207,6 +207,180 @@ Redundancy within a system often requires additional resources but can provide t
 
 The redundancy of routing options between two points increases the reliability of the internet and helps it scale to the more devices and more people
 
+<h1><strong> AP Exam Study Blog</strong></h1>
+
+<h1>Beneficial and Harmful Effects of Computing</h1>
+
+<p><strong>Beneficial Effects:</strong></p>
+
+<li>Communication: Connect with people worldwide through texting, video chatting, and social media.</li>
+
+<li>Education: Use of digital tools and platforms for online learning and studying.</li>
+
+<li>Healthcare: Virtual doctor visits, health tracking apps, and AI-powered medical tools.</li>
+
+<li>Efficiency: Speeds up repetitive tasks like calculations and data processing.</li>
+
+<p><strong>Harmful Effects:</strong></p>
+
+<li>Job Loss: Automation taking over tasks previously done by humans.</li>
+
+<li>Privacy Issues: Collecting user data without clear permission.</li>
+
+<li>Mental Health Concerns: Too much screen time and stress from social platforms.</li>
+
+<li> Environmental Costs: E-waste and high energy consumption.</li>
+
+<h1>Digital Divide</h1>
+
+<li>Definition:The difference between people who can access modern technology and those who can't.</li>
+
+<p><strong>Causes:</strong></p>
+
+<li>Economic status</li>
+
+<li>Geographic location</li>
+
+<li>Educational background</li>
+
+<li>Age differences</li>
+
+<p><strong>Consequences:</strong></p>
+
+<li><strong>Unequal access to learning resources.</strong></li>
+
+<li>Fewer employment and healthcare opportunities.</li>
+
+<p><strong>Possible Solutions:</strong></p>
+
+<li>Provide free or low-cost internet and devices.</li>
+
+<li>Offer training programs to improve digital skills.</li>
+
+<h1>Computing Bias</h1>
+
+<li>Definition: When computer programs or algorithms produce unfair or skewed results due to biased data.</li>
+
+<p><strong>Examples:</strong></p>
+
+<li>Job applications systems that favor certain names.</li>
+
+<li>Facial recognition software that struggles with darker skin tones.</li>
+
+<p><strong>Causes</strong></p>
+
+<li>Biases in historical datasets.</li>
+
+<li>Lack of diversity among tech developers.</li>
+
+<p><strong>Solutions:</strong></p>
+
+<li>Train algorithms with diverse data sets.</li>
+
+<li>Test systems regularly for fairness.</li>
+
+<li>Use tools to detect and fix bias.</li>
+
+<h1>Crowdsourcing</h1>
+
+<li><strong>Definition: Getting help or data from a large online community to solve problems or gather information.</strong></li>
+
+<p><strong>Examples:</strong></p>
+
+<li>Wikipedia, Waze, Duolingo, Foldit.</li>
+
+<p><strong>Advantages:</strong><li>
+
+<li>Quick and low-cost.</li>
+
+<li>Brings in many different perspectives.</li>
+
+<p><strong>Disadvantages:</strong></p>
+
+<li>Results may not always be accurate.<li>
+
+<li>Quality control can be difficult. </li>
+
+<h1>Legal and Ethical Concerns</h1>
+
+<p><strong>Legal Issues:</strong></p>
+
+<li>Copyright Violations: Using others’ content without permission.</li>
+
+<li>Data Protection Laws: Regulations like GDPR safeguard personal data.</li>
+
+<li>Hacking: Gaining unauthorized access is illegal.</li>
+
+<p><strong>Ethical Issues:</strong></p>
+
+<li>Informed Consent: Users should be told when data is being gathered.</li>
+
+<li>Transparency: Tech should work in ways users expect.</li>
+
+<li>Social Impact: Consider effects on jobs, privacy, and mental health.</li>
+
+<h1>Safe Computing</h1>
+
+<li>Create Strong Passwords: Use long, complex, and unique ones.</li>
+
+<li>Enable 2FA: Adds another step to keep your accounts safe.</li>
+
+<li>Use Antivirus & Update Software: Protect your system from viruses.</li>
+
+<li>Watch for Phishing: Don’t click on sketchy emails or links.</li>
+
+<li>Think Before Sharing: Be cautious about what personal info you put online.</li>
+
+<h1>Binary Search Algorithm </h1>
+
+<p><strong>Purpose:</strong></p>
+
+<li>To quickly find an item in a sorted list.</li>
+
+<p><strong>Steps:</strong></p>
+
+<li>Look at the middle value.</li>
+
+<li>If the target is smaller, search the left half.</li>
+
+<li>If the target is larger, search the right half.</li>
+
+<p><strong>Efficiency:</strong></p>
+
+<li>Time complexity: O(log n)</li>
+
+<li>Note: Works only if the list is already sorted.</li>
+
+<h1>Lists and Filtering Algorithms</h1>
+
+<p><strong>Lists:</strong></p>
+
+<li>A collection of items in a specific order (e.g., [10, 20, 30]).</li>
+
+<p><strong>Filtering:</strong></p>
+
+<li>Select items that meet a condition.</li>
+
+<li>Example: scores = [92, 85, 70] → filter scores > 80 → [92, 85]</li>
+
+<p><strong>Common Uses:</strong></p>
+
+<li>Sorting values</li>
+
+<li>Searching with specific conditions</li>
+
+<li>Removing repeated items</li>
+
+<h1>Simulation/Games and Random Algorithms</h1>
+
+<p><strong>Simulation:</strong></p>
+
+<li>Imitate real-world systems like climate models or disease spread.</li>
+
+<p><strong>Games:</strong></p>
+
+<li>Add randomness to make gameplay more interesting.</li>
+
     <h3><span style="font-size: 20px;">Connecting to the Future</span></h3>
 
   <p> Now, I'm applying what I’ve learned in class to pursue my interests in engineering. My experience with Git, Python, and version control has become essential in a hands-on project where I’m building and managing a working prototype. Using CRUD operations, I’m able to efficiently organize and interact with project data. </p>
